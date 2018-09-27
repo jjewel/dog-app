@@ -1,0 +1,9 @@
+{
+  "name": "dog-app",
+  "version": "1.0.0",
+  "description": "a node application utilising the dog.ceo api",
+  "main": "index.js",
+  "repository": "git@github.com:jjewel/dog-app.git",
+  "author": "Jason Jewel <jjewe2009@gmail.com>",
+  "license": "MIT"
+}
